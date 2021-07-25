@@ -89,6 +89,8 @@ public class GameofLife {
 						e.printStackTrace();
 					}
 				}
+				
+				returnValue = true;
 
 			}
 		};
